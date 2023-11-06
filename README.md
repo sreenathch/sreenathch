@@ -69,7 +69,7 @@ Skills: HTML/HTML5, CSS/CSS3, JavaScript, TypeScript, jQuery, React, Nextjs, Red
 
 |*|Stars|Repo| Description      |
 |---|---|---|------------------|
-| 📦 | 4 | [direct-drop-area](https://github.com/sreenathch/direct-drop-area) | direct-drop-area |
+| 📦 | 4 | [direct-drop-area](https://www.npmjs.com/package/direct-drop-area) | direct-drop-area |
 ---
 
 <!--RECENT_ACTIVITY:start-->
