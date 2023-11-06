@@ -1,5 +1,5 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shreenath Chakinala
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is [Shreenath Chakinala](linkto:https://sreenathch.github.io/porfile/)
 ===========================================================================================================================================
 
 Sr. Software Developer | Proficient in React, Angular and Ruby
@@ -41,6 +41,11 @@ Skills: HTML/HTML5, CSS/CSS3, JavaScript, TypeScript, jQuery, React, Nextjs, Red
 <a href="https://www.x.com/ch_sreenath" target="_blank" rel="noreferrer">
 <img alt="twitter" src="https://img.shields.io/twitter/follow/ch_sreenath?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
+
+<a href="https://sreenathch.github.io/porfile/" target="_blank" rel="noreferrer">
+My Profile
+</a>
+
 
 ### Skills
 
