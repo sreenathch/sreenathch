@@ -35,7 +35,7 @@ Skills: HTML/HTML5, CSS/CSS3, JavaScript, TypeScript, jQuery, React, Nextjs, Red
 
 * 🌍  I'm based in Dallas, Texas
 * ✉️  You can contact me at [chakinalasreenath@gmail.com](mailto:chakinalasreenath@gmail.com)
-* 🔗  Visit my Profile at [link](https://sreenathch.github.io/porfile/)
+* 🔗  Visit my Profile at [link](https://sreenathch.github.io/profile/)
 * 🧠  I'm learning React, Python & Ruby
 * 🤝  I'm open to collaborating on Websites
 
