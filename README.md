@@ -69,10 +69,10 @@ Skills: HTML/HTML5, CSS/CSS3, JavaScript, TypeScript, jQuery, React, Nextjs, Red
 
 <h1><b>⚡ Recent Activity:</b></h1>
 
-|*|Stars|Npm Package| Description      |
-|---|---|---|------------------|
-| 📦 | 4 | [direct-drop-area](https://www.npmjs.com/package/direct-drop-area) | direct-drop-area |
-| 📦 | 3 | [get-detailed-location](https://www.npmjs.com/package/get-detailed-location) | get-detailed-location |
+|*|Npm Package| Description      |
+|---|---|------------------|
+| 📦 | [direct-drop-area](https://www.npmjs.com/package/direct-drop-area) | direct-drop-area |
+| 📦 | [get-detailed-location](https://www.npmjs.com/package/get-detailed-location) | get-detailed-location |
 ---
 
 <!--RECENT_ACTIVITY:start-->
