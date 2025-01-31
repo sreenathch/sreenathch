@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sr. Software Developer | Proficient in React, Angular and Ruby
 --------------------------------------------------------------
 
-With over 9 years of hands-on Web Development experience, I excel in both front-end and back-end technologies. 
+With over 10 years of hands-on Web Development experience, I excel in both front-end and back-end technologies. 
 Operating within established frameworks, I bring a unique blend of skills to optimize user experiences.
 - Front-End Expertise: Proficient in ReactJs and React Native, I craft dynamic user interfaces, seamlessly translating interactions into captivating experiences.
 
